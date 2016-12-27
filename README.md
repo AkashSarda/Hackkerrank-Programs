@@ -16,5 +16,10 @@ just swap the two characters and send the rest of the string into reursion.
  "Do not unfold the recursion! :)"
  
  # Hamilton Path in Python
- Done in DFS fashion
  
+ Done in DFS fashion
+
+# Emma And Sum Of Products 
+
+Emma and Sum Of Products from hackerrank!
+
